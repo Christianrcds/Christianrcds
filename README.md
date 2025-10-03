@@ -8,7 +8,7 @@ I'm a software engineer who loves turning complex problems into simple solutions
 
 - 💬 Ask me about **TypeScript**, **Node.js**, clean **System Architecture**, and bridging the gap between engineering and product.
 
-- 🌱 I’m currently tinkering with **AI**, and trying to *finally* understand **Blockchain**.
+- 🌱 I’m currently tinkering with **AI** and coding paradigms.
 
 - 📫 Feel free to connect on [**LinkedIn**](https://linkedin.com/in/christian-rossetto) or drop me an [**Email**](mailto:rcdschristian@gmail.com).
 
